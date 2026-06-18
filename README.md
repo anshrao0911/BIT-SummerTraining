@@ -18,6 +18,16 @@ assignments/
     submissions/
       batch-a/
       batch-b/
+  day-03/
+    questions.md
+    submissions/
+      batch-a/
+      batch-b/
+  day-04/
+    questions.md
+    submissions/
+      batch-a/
+      batch-b/
 resources/
   setup-guide.md
   python-basics.md
