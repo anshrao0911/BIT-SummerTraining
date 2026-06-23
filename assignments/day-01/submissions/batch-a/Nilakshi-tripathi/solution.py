@@ -25,7 +25,7 @@ print(city)
 
 name="Nilakshi"
 age=20
-marks=80
+marks=80.5
 passed=True
 
 print("name:",name)
@@ -48,11 +48,5 @@ print(student_dict)
 # 6. Write one comment explaining what your program does.
 
 
-#this program add two numbers and displays the result
+#this program demonstrates python variable, data type, a list and a dictionary.
 
-num1=int(input("Enter 1st number:")) 
-num2=int(input("Enter 2nd number:"))
-
-result=num1+num2
-
-print("result:",result)
