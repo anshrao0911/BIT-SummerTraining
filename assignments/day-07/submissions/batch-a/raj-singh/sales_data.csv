@@ -1,0 +1,7 @@
+order_id,product,category,price,quantity,city
+ORD-001,Python Course,Online Course,999,2,Gorakhpur
+ORD-002,Data Analytics Course,Online Course,1499,1,Lucknow
+ORD-003,AI Workshop,Workshop,799,3,Gorakhpur
+ORD-004,Python Course,Online Course,999,1,Deoria
+ORD-005,Data Analytics Course,Online Course,1499,2,Gorakhpur
+ORD-006,AI Workshop,Workshop,799,1,Lucknow

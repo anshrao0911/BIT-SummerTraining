@@ -1,0 +1,1 @@
+The scanner should ignore this file.
