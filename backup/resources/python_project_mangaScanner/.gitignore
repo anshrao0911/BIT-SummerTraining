@@ -1,0 +1,11 @@
+.venv/
+.venv312/
+.pytest_cache/
+__pycache__/
+*.pyc
+dist/
+build/
+*.egg-info/
+samples/_demo_pages/
+scan.md
+*_scan.md
